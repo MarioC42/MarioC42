@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mario Crisan</h1>
 <h3 align="center">I am a passionate Web Developer from Europe.</h3>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"/>
 
 - 📚I am currently Learning **JavaScript**
 
