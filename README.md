@@ -1,4 +1,4 @@
-[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F9f%2Ff6%2F08%2F9ff6086bda00f7c3a3860018ada700bf.gif&f=1&nofb=1)
+![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F9f%2Ff6%2F08%2F9ff6086bda00f7c3a3860018ada700bf.gif&f=1&nofb=1)
 <h1 align="center">Hi 👋, I'm Mario Crisan</h1>
 <h3 align="center">I am a passionate Web Developer from Europe.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"/>
